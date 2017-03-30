@@ -5,10 +5,14 @@
 		"/js/site.js": "assets/js/site.js",
 		"/js/util.js": "assets/js/util.js",
 		"/js/graph.js": "assets/js/graph.js",
-		"/css/main.css": "assets/css/main.css"
+		"/css/main.css": "assets/css/main.css",
+		"/favicons/nethergames.jpg": "assets/images/favicons/nethergames.jpg"
 	},
 	"faviconOverride": {
-
+		"NetherGames Lobby": "/favicons/nethergames.jpg",
+		"NetherGames Prison": "/favicons/nethergames.jpg",
+		"NetherGames Creative": "/favicons/nethergames.jpg",		
+		"NetherGames Stats": "/favicons/nethergames.jpg"
 	},
 	"site": {
 		"port": 8080,
@@ -23,8 +27,7 @@
 	"logToDatabase": false,
 	"graphDuration": 86400000,
 	"serverCategories": {
-		"minigames": "Minigame Networks",
-		"pocket": "Pocket Edition Networks"
+		"pocket": "NetherGames Servers"
 	},
 	"versions": {
 		"PC": [

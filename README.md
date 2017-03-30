@@ -1,3 +1,6 @@
+This site is a fork of software written by Cryptkeeper and generously open sourced on GitHub.
+The original version does not include **NetherGames**.
+
 ### Minetrack 
 Minetrack is a Minecraft PC/PE server tracker that lets you focus on what's happening *now*. 
 Built to be lightweight and durable, you can easily adapt it to monitor BungeeCord or server instances.

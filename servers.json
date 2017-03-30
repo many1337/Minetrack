@@ -1,14 +1,26 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC",
-		"category": "minigames"
+		"name": "NetherGames Lobby",
+		"ip": "play.nethergames.org",
+		"type": "PE",
+		"category": "pocket"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC",
-		"category": "minigames"
+		"name": "NetherGames Creative",
+		"ip": "creative.nethergames.org",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "NetherGames Prison",
+		"ip": "prison.nethergames.org",
+		"type": "PE",
+		"category": "pocket"
+	},
+	{
+		"name": "NetherGames Stats",
+		"ip": "stats.nethergames.org",
+		"type": "PE",
+		"category": "pocket"
 	}
 ]
